@@ -1,0 +1,7 @@
+conda create -n <env name> python=3.11 ipykernel
+conda activate env0
+conda deactivate
+pip install numpy
+pip install -r requirements.txt
+#see requirements.txt to see diff kinds of install instructions
+
